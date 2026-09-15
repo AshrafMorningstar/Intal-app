@@ -1,0 +1,6 @@
+{
+  "name": "Inxernal",
+  "description": "Internal automation, memory analysis, and anti-ban control dashboard for Android games based on northXD/inxernal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
